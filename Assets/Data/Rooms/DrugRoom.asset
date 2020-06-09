@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d190bbe7c52594f845ccb2d75482ed, type: 3}
+  m_Name: DrugRoom
+  m_EditorClassIdentifier: 
+  m_name: Pharmacy
+  m_doors:
+  - {fileID: 11400000, guid: ed646d0e86e87ce498fb551fd2f7962a, type: 2}
+  - {fileID: 11400000, guid: a6ba4afc2a7f5d841898e729913a51e6, type: 2}
+  m_startingStock:
+  - {fileID: 11400000, guid: f0109020cadc73040951bc1c7df9ecd5, type: 2}
+  - {fileID: 11400000, guid: 23cbb1d3beb801b458a62b99701cdce7, type: 2}
+  - {fileID: 11400000, guid: d541a67913cca9442902169bb90e1793, type: 2}
+  - {fileID: 11400000, guid: 248233b53c781ee42b4815f5362dcdce, type: 2}
+  m_stock:
+  - {fileID: 11400000, guid: f0109020cadc73040951bc1c7df9ecd5, type: 2}
+  - {fileID: 11400000, guid: 23cbb1d3beb801b458a62b99701cdce7, type: 2}
+  - {fileID: 11400000, guid: d541a67913cca9442902169bb90e1793, type: 2}
+  - {fileID: 11400000, guid: 248233b53c781ee42b4815f5362dcdce, type: 2}

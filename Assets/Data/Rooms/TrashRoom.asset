@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d190bbe7c52594f845ccb2d75482ed, type: 3}
+  m_Name: TrashRoom
+  m_EditorClassIdentifier: 
+  m_name: Recycling Center
+  m_doors:
+  - {fileID: 11400000, guid: 22e2ac848d521c04c8b569a1a7b57873, type: 2}
+  - {fileID: 11400000, guid: ceaaef8019c600848a0cbb4c463154e0, type: 2}
+  - {fileID: 11400000, guid: 789de4059096a454fb75c89fb9f5ad4d, type: 2}
+  m_type:
+    name: 7
+    quantity: 0
+  m_startingQuantity: 0

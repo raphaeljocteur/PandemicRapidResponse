@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e451add97850daf47a5cae25b6599109, type: 3}
+  m_Name: CityList
+  m_EditorClassIdentifier: 
+  m_list:
+  - {fileID: 11400000, guid: 936abd901932b1c4480fcc0cbd547acc, type: 2}
+  - {fileID: 11400000, guid: 8cbbacfdc92653a40a920d8e95ad6f3c, type: 2}
+  - {fileID: 11400000, guid: 61eb30e37f0c3e444a74da368ebb2c3a, type: 2}
+  - {fileID: 11400000, guid: 66c1d36517555204fb7e147c07da2dcb, type: 2}
+  - {fileID: 11400000, guid: 6540b854dc54bd942a32bf513bbf043e, type: 2}
+  - {fileID: 11400000, guid: ba319346e3f0bb54e948698987024582, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: add6c8e7dcbf12c459ef58cd3b7d52ba, type: 3}
+  m_Name: GameState
+  m_EditorClassIdentifier: 
+  m_diceList: {fileID: 11400000, guid: 1807b449e5256f3498b6f497abde1c7b, type: 2}
+  m_cityList: {fileID: 11400000, guid: f623e55eb91d5c84c8a8b20f6ae222e1, type: 2}
+  m_roomList: {fileID: 11400000, guid: 78694d4aac1b39c47aedbaa9bc7d201b, type: 2}
+  m_characterList: {fileID: 11400000, guid: 0e5994eb8506f7741b544bcf89e8c635, type: 2}
+  m_trashRoom: {fileID: 11400000, guid: 006f53aa17374cb469399b2893712607, type: 2}
+  m_nbPlayers: 0
+  m_startingPlayer: 0
+  m_currentPlayer: 0
+  m_maxPlayer: 4
+  m_minPlayer: 2
+  plane: {fileID: 11400000, guid: 79206d25003015e4a80b9c880193f61e, type: 2}
+  isGameOver: 0
+  isWin: 0
+  isActionPass: 0
+  isActionRoll: 0
+  isActionMove: 0
+  isActionMovePlaneForward: 0
+  isActionMovePlaneBackWard: 0
+  isActionUseRoom: 0
+  isActionDepositRoom: 0
+  time: -2.529687
+  usableTimeToken: 3
+  trashMax: 10
+  reservedTimeToken: 6
+  m_timeTokenValue: 10
+  dices: []
+  cityRemnant: []
+  cityGoal:
+  - {fileID: 11400000, guid: 8cbbacfdc92653a40a920d8e95ad6f3c, type: 2}
+  - {fileID: 11400000, guid: ba319346e3f0bb54e948698987024582, type: 2}
+  cityDeck:
+  - {fileID: 11400000, guid: 61eb30e37f0c3e444a74da368ebb2c3a, type: 2}
+  - {fileID: 11400000, guid: 936abd901932b1c4480fcc0cbd547acc, type: 2}
+  - {fileID: 11400000, guid: 66c1d36517555204fb7e147c07da2dcb, type: 2}
+  players: []
+  playersPosition: []

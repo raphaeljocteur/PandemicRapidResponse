@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d190bbe7c52594f845ccb2d75482ed, type: 3}
+  m_Name: FoodRoom
+  m_EditorClassIdentifier: 
+  m_name: Kitchen
+  m_doors:
+  - {fileID: 11400000, guid: ed646d0e86e87ce498fb551fd2f7962a, type: 2}
+  - {fileID: 11400000, guid: 789de4059096a454fb75c89fb9f5ad4d, type: 2}
+  - {fileID: 11400000, guid: 006f53aa17374cb469399b2893712607, type: 2}
+  m_startingStock:
+  - {fileID: 11400000, guid: d31d2fd597778c3489d8d0470e6915e9, type: 2}
+  - {fileID: 11400000, guid: ff0b2e148ee2b6741a64e2175170e4ba, type: 2}
+  - {fileID: 11400000, guid: 3f56bcb8365771746bac2ae5bd6b65bc, type: 2}
+  - {fileID: 11400000, guid: e4055ae130b89214389d5bb5aec8ccd6, type: 2}
+  m_stock:
+  - {fileID: 11400000, guid: d31d2fd597778c3489d8d0470e6915e9, type: 2}
+  - {fileID: 11400000, guid: ff0b2e148ee2b6741a64e2175170e4ba, type: 2}
+  - {fileID: 11400000, guid: 3f56bcb8365771746bac2ae5bd6b65bc, type: 2}
+  - {fileID: 11400000, guid: e4055ae130b89214389d5bb5aec8ccd6, type: 2}

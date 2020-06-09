@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1db1b512b07f6439aadb16851d253c, type: 3}
+  m_Name: Manila
+  m_EditorClassIdentifier: 
+  m_id: 1
+  m_name: Manila
+  m_requirement:
+  - name: 0
+    quantity: 2
+  - name: 1
+    quantity: 1
+  - name: 2
+    quantity: 1
