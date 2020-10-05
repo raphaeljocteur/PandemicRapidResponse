@@ -12,3 +12,5 @@ This was made remotely because of the covid pandemic.
 - Time : 5 days
 
 ![](https://i.ibb.co/nw0sHM4/pandemic.png)
+
+Read https://github.com/Mosnir/PandemicRapidResponse/blob/master/proposition.pdf for rules
