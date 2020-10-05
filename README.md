@@ -10,3 +10,5 @@ This was made remotely because of the covid pandemic.
 - Technology : Unity
 - Target : PC
 - Time : 5 days
+
+https://i.ibb.co/nw0sHM4/pandemic.png
