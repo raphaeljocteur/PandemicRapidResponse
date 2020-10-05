@@ -13,4 +13,4 @@ This was made remotely because of the covid pandemic.
 
 ![](https://i.ibb.co/nw0sHM4/pandemic.png)
 
-Read https://github.com/Mosnir/PandemicRapidResponse/blob/master/proposition.pdf for rules
+Read https://github.com/Mosnir/PandemicRapidResponse/blob/master/proposition.pdf (in french) for rules
