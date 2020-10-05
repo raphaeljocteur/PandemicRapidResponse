@@ -11,4 +11,4 @@ This was made remotely because of the covid pandemic.
 - Target : PC
 - Time : 5 days
 
-https://i.ibb.co/nw0sHM4/pandemic.png
+![](https://i.ibb.co/nw0sHM4/pandemic.png)
